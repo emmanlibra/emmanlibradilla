@@ -3876,6 +3876,10 @@ input, select, textarea {
 					color: #18bfef !important;
 				}
 				
+				#main > .posts > article > a > video {
+					width: 100% !important;
+				}
+
 				#main > .posts > article > ul > li {
 					bottom: 1%; 
 					position: absolute !important;
